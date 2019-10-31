@@ -1,0 +1,50 @@
+[
+  {
+    "title": "What is Microlearning?",
+    "displayTitle": "What is Microlearning?",
+    "body": "<p><strong>Microlearning</strong>&nbsp;is an emergent learning strategy known for quickly closing skill and knowledge gaps. Microlearning allows learners to consume training and apply new knowledge and skills quickly in the time of need on any device. It can be used for both formal and informal learning solutions.</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "59a6e057510bab2fe3a4d49c",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_footer": {
+      "_isEnabled": true,
+      "_footerContent": "<p><a href=\"https://www.sap.com/about/legal/privacy.html\" target=\"_self\">Privacy</a>&nbsp;|&nbsp;<a href=\"https://www.sap.com/corporate/en/legal/terms-of-use.html\" target=\"_self\">Terms of Use</a>&nbsp;|&nbsp;<a href=\"https://www.sap.com/about/legal/impressum.html\" target=\"_self\">Legal Disclosure</a>&nbsp;|&nbsp;<a href=\"https://www.sap.com/about/legal/copyright.html\" target=\"_self\">Copyright</a>&nbsp;|&nbsp;<a href=\"https://www.sap.com/about/legal/trademark.html\" target=\"_self\">Trademark</a></p>",
+      "_classes": ""
+    },
+    "_themeExtras": {
+      "_headerImage": {
+        "_small": "course/assets/083d2f83560232992db7940b3ed9af9320a58187.jpg",
+        "_medium": "course/assets/614984a28709831b6dd1738c21a32899dc369c94.jpg",
+        "_large": "course/assets/9a2ff861362334a7602e18f497e7c39e3831bda3.jpg"
+      },
+      "_minimumHeights": {
+        "_small": 300,
+        "_medium": 400,
+        "_large": 440
+      }
+    },
+    "_scrollPrompt": {
+      "_isEnabled": true,
+      "alt": "Scroll down"
+    }
+  }
+]

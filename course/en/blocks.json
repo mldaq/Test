@@ -1,0 +1,152 @@
+[
+  {
+    "title": "Microlearning in 2 minutes",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "bg-color-lightgrey",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5af4b036af2847d49ac37689",
+    "_type": "block",
+    "_parentId": "59a6e057510bab2fe3a4d49d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_themeExtras": {
+      "_headerImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      },
+      "_minimumHeights": {
+        "_large": 0
+      }
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c803f5b1980795a5240d7f7",
+    "_parentId": "59a6e057510bab2fe3a4d49d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_themeExtras": {
+      "_backgroundImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      },
+      "_minimumHeights": {
+        "_large": 0
+      }
+    }
+  },
+  {
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-block-top-padding",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "59a6e057510bab2fe3a4d49e",
+    "_type": "block",
+    "_parentId": "59a6e057510bab2fe3a4d49d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_themeExtras": {
+      "_backgroundImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      },
+      "_minimumHeights": {
+        "_large": 0
+      }
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "remove-block-top-padding",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5af4b62eaf2847d49ac3768e",
+    "_type": "block",
+    "_parentId": "59a6e057510bab2fe3a4d49d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_themeExtras": {
+      "_backgroundImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      },
+      "_minimumHeights": {
+        "_large": 0
+      }
+    }
+  },
+  {
+    "title": "Learn. Share.",
+    "displayTitle": "Learn. Share.",
+    "body": "<p>Access the blog on this topic and&nbsp;join in the discussion.&nbsp;See&nbsp;<a href=\"https://jam4.sapjam.com/blogs/show/bosXNOjvFUUOwgDYYtjjYk\" target=\"_blank\">Microlearning About Microlearning</a> blog in our Content Developer Community.</p><p>We want to know...</p><ul><li>What are you thoughts and ideas on this topic?</li><li>Tell us how you might use microlearning?</li><li>Have you use microlearning in the past, if so, what type of content did you use?</li><li>Care to&nbsp;share some examples?</li></ul><p>You can find related information and materials on the <a href=\"https://jam4.sapjam.com/groups/Fh5VaapoD5IVYU2igYWrjs/overview_page/gk7QoAlVCMJv7MwLfsAX52?edit_mode=true\" target=\"_blank\">Content Developer Community and Toolkit.</a></p>",
+    "_classes": "bg-color-lightgrey",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5af4c43caf2847d49ac3769d",
+    "_type": "block",
+    "_parentId": "59a6e057510bab2fe3a4d49d",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_themeExtras": {
+      "_headerImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      },
+      "_minimumHeights": {
+        "_large": 0
+      }
+    }
+  }
+]

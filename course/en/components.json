@@ -1,0 +1,185 @@
+[
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Characteristics of Microlearning",
+    "displayTitle": "Characteristics of Microlearning",
+    "body": "<p><strong>Brevity</strong></p><p>It&#39;s short and self-paced; small bites that are easy to consume.</p><p><strong>Granularity</strong></p><p>Narrow topic, concept, or idea.</p><p><strong>Variety</strong></p><p>Can be in the form or various formats - presentation, activity, quiz, game, discussion, video, and other.</p>",
+    "_id": "59a6e0d1510bab2fe3a4d49f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "59a6e057510bab2fe3a4d49e",
+    "_onScreen": {
+      "_percentInviewVertical": 50,
+      "_classes": "",
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "attribution": "",
+      "small": "course/en/assets/f10007da49b819ae3c971db4d65c766ac0b570c6.jpg",
+      "large": "course/en/assets/f10007da49b819ae3c971db4d65c766ac0b570c6.jpg",
+      "alt": "Bite sized sushi lined in a row"
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5af4b03daf2847d49ac3768a",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af4b036af2847d49ac37689",
+    "_onScreen": {
+      "_percentInviewVertical": 50,
+      "_classes": "",
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_playerOptions": {
+      "features": [
+        "playpause",
+        "current",
+        "progress",
+        "duration",
+        "tracks",
+        "volume",
+        "fullscreen"
+      ]
+    },
+    "_transcript": {
+      "transcriptLink": "",
+      "transcriptLinkButton": "",
+      "inlineTranscriptBody": "<p>[Music]</p><p>Meet the O&#39;Connell&#39;s. Frank is a mathematics teacher, but with a real passion for DIY. In his home workshop he always has his tablet handy. He uses it for quick access to practical advice using how-to videos on YouTube.</p><p>Franks married&nbsp;to Joan, who when she&#39;s not out and about in her job as a midwife, is always busy planning the family&#39;s next getaway. She&#39;s doing a Spanish language course using a Duolingo app. She tries to do at least one exercise each day to build up her skills in advance of this summer&#39;s trip to Minorca. She&#39;s determined that at least one of them should speak some of the lingo.</p><p>Belinda is Frank and Joan&#39;s oldest child she&#39;s been working in a bank now for five years and has determined to progress quickly up the ladder. She&#39;s doing an online MBA&nbsp;course. Currently, she&#39;s participating in a business game with hundreds of other students worldwide to support her in the game. She has access to dozens of short tutorials which provided insights into aspects of business finance.</p><p>Lastly, there&#39;s Sed, Belinda&#39;s brother he was learning to be a plumber this involves him going into college for day each week in between. He&#39;s designed lots of short modules to work through on his own covering all sorts of technical subjects.</p><p>[Music]</p><p>Although they may not know it, all of the O&#39;Connell&#39;s are benefiting from the joys of micro learning - self-directed learning delivered in small chunks. Frank uses YouTube as a form of performance support to help him carry out his DIY task. Joan uses her Duolingo app for regular spaced practice of her Spanish language skills. Belinda uses short modules to provide her with support as and when she needs it, as she immerses herself in a more major learning task the online business game. And&nbsp;Sed, is assigned self-study content to complete as part of a blended solution that makes up this college course in plumbing.</p><p>Four ways in which micro learning helps the O&#39;Connell&#39;s and increasing numbers of people all over the world to achieve their learning goals and get the job done day in day out.</p><p>[Music]&nbsp;</p>",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptButton": "Open Transcript",
+      "_externalTranscript": false,
+      "_inlineTranscript": true,
+      "_setCompletionOnView": false
+    },
+    "_preventForwardScrubbing": false,
+    "_playsinline": false,
+    "_allowFullScreen": true,
+    "_startVolume": "50%",
+    "_showVolumeControl": true,
+    "_startLanguage": "en",
+    "_useClosedCaptions": true,
+    "_setCompletionOn": "inview",
+    "_media": {
+      "cc": [
+        {
+          "src": "course/en/assets/b857aa3305b08baa0e82cb694b7d7d61ae59e01a.vtt",
+          "srclang": "en"
+        }
+      ],
+      "poster": "",
+      "type": "video/youtube",
+      "source": "https://youtu.be/_C_DklqFoHs",
+      "mp3": "",
+      "webm": "",
+      "ogv": "",
+      "mp4": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Benefits",
+    "displayTitle": "Benefits",
+    "body": "<p>There are many advantages to using microlearning. Here are a few:</p><p><strong>Immediate results</strong> - quickly closes small knowledge or skill gaps</p><p><strong>Diverse formats</strong> - both structured and unstructured</p><p><strong>Budget friendly</strong> - low cost production</p><p><strong>Quick achievements</strong> - easy to process cognitively and apply</p><p><strong>Ideal for tagging</strong> - easy search, access, and re-use</p><p><strong>Fast-pace culture</strong> - not as disruptive</p>",
+    "_id": "5af4b67caf2847d49ac3768f",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5af4b62eaf2847d49ac3768e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "seal or label with the word advantages",
+      "large": "course/en/assets/a8a168773a036f15fdfbbf5d3c1e9e052b152af1.jpg",
+      "small": "course/en/assets/a8a168773a036f15fdfbbf5d3c1e9e052b152af1.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Avoid Common Pitfalls",
+    "displayTitle": "Avoid Common Pitfalls",
+    "body": "<p>Microlearning can easily&nbsp;leave learners disoriented where they are not sure how everything fits together. Avoid pitfalls by using the following best practices:</p><ul><li>Provide a clear connection between microlearning content and the connection to larger training goals</li><li>Consider brand, flow, use of activities - especially when tying microlearning together</li><li>Tag appropriately for easy search, access, and retrieval</li><li>Provide an actionable item or activity</li><li>Identify related content</li></ul>",
+    "_id": "5af4b909af2847d49ac37695",
+    "_layout": "right",
+    "_type": "component",
+    "_parentId": "5af4b62eaf2847d49ac3768e",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "illustration of circle with an animal trap",
+      "large": "course/en/assets/b1f61110bb371dbe75c85262e6228fd9bf415707.jpg",
+      "small": "course/en/assets/b1f61110bb371dbe75c85262e6228fd9bf415707.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "blank",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "_id": "5af4c465af2847d49ac3769f",
+    "_layout": "full",
+    "_type": "component",
+    "_parentId": "5af4c43caf2847d49ac3769d",
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Reflection",
+    "displayTitle": "Reflection",
+    "body": "<p>How have you used microlearning this week to help you complete a simple task? Was it a YouTube video, a simple job-aid, an infographic, or maybe a short online one-pager like the one you are viewing here.&nbsp;&nbsp;</p>",
+    "_id": "5c803f7a1980795a5240d7f8",
+    "instruction": "",
+    "_parentId": "5c803f5b1980795a5240d7f7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    }
+  }
+]

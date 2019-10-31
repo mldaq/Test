@@ -1,0 +1,63 @@
+{
+  "f10007da49b819ae3c971db4d65c766ac0b570c6.jpg": {
+    "title": "sushi.jpg",
+    "description": "sushi",
+    "tags": []
+  },
+  "a8a168773a036f15fdfbbf5d3c1e9e052b152af1.jpg": {
+    "title": "advantages.jpg",
+    "description": "advantages seal",
+    "tags": [
+      {
+        "title": "seal",
+        "_id": "5af4b8a5af2847d49ac37690"
+      },
+      {
+        "title": "label",
+        "_id": "5af4b8a9af2847d49ac37691"
+      }
+    ]
+  },
+  "b1f61110bb371dbe75c85262e6228fd9bf415707.jpg": {
+    "title": "pitfalls.jpg",
+    "description": "pitfall or trap",
+    "tags": [
+      {
+        "title": "trap",
+        "_id": "5af4bd7caf2847d49ac37696"
+      },
+      {
+        "title": "pitfall",
+        "_id": "5af4bd7faf2847d49ac37697"
+      }
+    ]
+  },
+  "b857aa3305b08baa0e82cb694b7d7d61ae59e01a.vtt": {
+    "title": "caption.vtt",
+    "description": "caption file",
+    "tags": [
+      {
+        "title": "caption",
+        "_id": "5af4eae3af2847d49ac377b4"
+      },
+      {
+        "title": "vtt",
+        "_id": "591d0c7317cbb3e6a301c7b3"
+      }
+    ]
+  },
+  "1d70662b68d3ebc656172448dfa981aa33b75a30.svg": {
+    "title": "sap-learning-rev.svg",
+    "description": "SAP Learning Logo (white)",
+    "tags": [
+      {
+        "title": "logo",
+        "_id": "58123517cf794fec80595162"
+      },
+      {
+        "title": "SAP learning",
+        "_id": "5b33d52e9adc668c078ea480"
+      }
+    ]
+  }
+}

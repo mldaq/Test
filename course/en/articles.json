@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "59a6e057510bab2fe3a4d49d",
+    "_type": "article",
+    "_parentId": "59a6e057510bab2fe3a4d49c",
+    "_onScreen": {
+      "_percentInviewVertical": 50,
+      "_classes": "",
+      "_isEnabled": false
+    },
+    "_themeExtras": {
+      "_headerImage": {
+        "_small": "",
+        "_medium": "",
+        "_large": ""
+      }
+    }
+  }
+]
